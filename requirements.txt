@@ -1,0 +1,9 @@
+alembic
+asyncpg
+fastapi
+sqlmodel
+fastapi-mail
+aiohttp
+uvicorn
+jinja2
+pytz
